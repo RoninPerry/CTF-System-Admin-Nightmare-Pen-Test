@@ -1,0 +1,4 @@
+FLAG1: {welcome_to_the_breach_d3v3l0p3r}
+FLAG2: {l4t3r4l_m0v3m3nt_m4st3r}
+FLAG3: {r00t_4cc3ss_4ch13v3d_l1k3_4_pr0}
+FLAG4: {p3rs1st3nc3_1s_k3y_g00d_j0b}
